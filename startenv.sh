@@ -1,2 +1,2 @@
-brave.exe https://chatgpt.com
-code ~/reposs
+brave.exe https://chatgpt.com & disown
+code ~/reposs & disown
